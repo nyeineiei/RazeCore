@@ -25,7 +25,7 @@ extension RazeCore {
         
         /// Returns an object of `UIColor` with the nicest color detectable to the human eye
         public static var razeColor: UIColor {
-          return self.fromHexString("006736")
+          return self.fromHexString("006739")
         }
         
         /// Returns an object of `UIColor` with the second nicest color detectable to the human eye
